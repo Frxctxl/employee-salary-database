@@ -8,13 +8,11 @@ const collectEmployees = function () {
   let employeeArr = [];
 
   while (true) {
-    if (!firstName) {
+    while (!firstName) {
       firstName = prompt('Enter the employee\'s first name:');
-      continue;
     }
-    if (!lastName) {
+    while (!lastName) {
       lastName = prompt('Enter the employee\'s last name:');
-      continue;
     }
     if (!salary) {
       salary = prompt('Enter the employee\'s salary:');
