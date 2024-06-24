@@ -8,14 +8,19 @@ git clone https://github.com/Frxctxl/employee-salary-database.git
 
 ## Usage
 The live site may be viewed at the following url.
-https://frxctxl.github.io/employee-salary-database/
+[GitHub Pages URL](https://frxctxl.github.io/employee-salary-database/) 
+
 
 ## Credits
 The original files for this program may be found here if you wish to recreate this project.
 https://github.com/coding-boot-camp/curly-potato.git
 I followed this guide to create this README.md file
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-This project was created with the assistance of GitHub Copilot
+This project was created with the assistance of 
+
+[GitHub Copilot](https://github.com/features/copilot?ef_id=_k_Cj0KCQjwj9-zBhDyARIsAERjds3hoUzj15s91mEH5MnTkNsES4Pt4UN8icT8-yDr1hKan7xwRvZVKR0aAm3XEALw_wcB_k_&OCID=AIDcmmc3fhtaow_SEM__k_Cj0KCQjwj9-zBhDyARIsAERjds3hoUzj15s91mEH5MnTkNsES4Pt4UN8icT8-yDr1hKan7xwRvZVKR0aAm3XEALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds3hoUzj15s91mEH5MnTkNsES4Pt4UN8icT8-yDr1hKan7xwRvZVKR0aAm3XEALw_wcB) 
+[W3Schools](https://www.w3schools.com/) 
+[MDN Docs](https://developer.mozilla.org/en-US/) 
 
 ## License
 This project has a MIT License. For more information read the LICENSE file.
